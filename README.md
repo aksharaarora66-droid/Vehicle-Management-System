@@ -1,5 +1,5 @@
 # Vehicle-Management-System
-The project now uses Hierarchical Inheritance, where multiple classes branch out from the same base.
+The project uses Hierarchical Inheritance, where multiple classes branch out from the same base.
 
 Vehicle (Base Class): Common attributes for all transport (ID, Brand, Model, etc.).
 
